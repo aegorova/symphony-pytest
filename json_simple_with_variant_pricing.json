@@ -1,0 +1,304 @@
+{
+  "publishState": "PUBLISHED",
+  "site": "kittydemo",
+  "type": "SIMPLE",
+  "subscribable": false,
+  "name": "Simple with Variant Pricing",
+  "description": " ",
+  "msrpInCents": 1000,
+  "cost": 0,
+  "subscriptionPrice": 0,
+  "useVariantPricing": true,
+  "displayMedia": [
+    {
+      "createdAt": null,
+      "updatedAt": null,
+      "id": null,
+      "importSource": null,
+      "importRef": null,
+      "type": "IMAGE",
+      "ref": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430572700_-8578514068342633395.300w.jpg",
+      "ordinal": 1,
+      "primary": true,
+      "meta": [
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "medium",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430572700_-8578514068342633395.500w.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of medium sized image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        },
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "large",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430572700_-8578514068342633395.1200w.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of large sized image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        },
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "original",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430572700_-8578514068342633395.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of original image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        }
+      ],
+      "dimension": {
+        "width": 1200,
+        "height": 600
+      }
+    }
+  ],
+  "composition": [
+    
+  ],
+  "frequencies": [
+    
+  ],
+  "variants": [
+    {
+      "name": "Simple with Variant Pricing",
+      "cost": 0,
+      "defaultPriceInCents": 0,
+      "productPricing": [
+        {
+          "label": "Wholesale Buyer",
+          "price": 800,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Dropship",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Tier 4",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Retail",
+          "price": 900,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "EDI",
+          "price": 0,
+          "availability": "AVAILABLE"
+        }
+      ],
+      "productStats": {
+        "quantityAvailable": 0,
+        "quantityWithheld": 0
+      },
+      "displayMedia": [
+        
+      ],
+      "variantAttrs": [
+        {
+          "key": "size",
+          "value": "small",
+          "displayValue": "small",
+          "keyType": "SIZE",
+          "site": "kittydemo"
+        }
+      ],
+      "tags": [
+        
+      ],
+      "msrpInCents": 1000,
+      "taxCode": ""
+    },
+    {
+      "productStats": {
+        "quantityAvailable": 0,
+        "quantityWithheld": 0
+      },
+      "productPricing": [
+        {
+          "label": "Wholesale Buyer",
+          "price": 800,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Dropship",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Tier 4",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Retail",
+          "price": 900,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "EDI",
+          "price": 0,
+          "availability": "AVAILABLE"
+        }
+      ],
+      "displayMedia": [
+        
+      ],
+      "variantAttrs": [
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": 3089,
+          "importSource": null,
+          "importRef": null,
+          "key": "size",
+          "value": "medium",
+          "displayValue": "medium",
+          "keyType": "SIZE",
+          "keyDescription": null,
+          "site": "kittydemo",
+          "priority": 0,
+          "isDefaultable": false
+        }
+      ],
+      "msrpInCents": 1000,
+      "cost": 0,
+      "taxCode": "",
+      "name": "Simple with Variant Pricing"
+    },
+    {
+      "productStats": {
+        "quantityAvailable": 0,
+        "quantityWithheld": 0
+      },
+      "productPricing": [
+        {
+          "label": "Wholesale Buyer",
+          "price": 800,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Dropship",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Wholesale Tier 4",
+          "price": 0,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "Retail",
+          "price": 900,
+          "availability": "AVAILABLE"
+        },
+        {
+          "label": "EDI",
+          "price": 0,
+          "availability": "AVAILABLE"
+        }
+      ],
+      "displayMedia": [
+        
+      ],
+      "variantAttrs": [
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": 3090,
+          "importSource": null,
+          "importRef": null,
+          "key": "size",
+          "value": "large",
+          "displayValue": "Large",
+          "keyType": "SIZE",
+          "keyDescription": null,
+          "site": "kittydemo",
+          "priority": 0,
+          "isDefaultable": false
+        }
+      ],
+      "msrpInCents": 1000,
+      "cost": 0,
+      "taxCode": "",
+      "name": "Simple with Variant Pricing"
+    }
+  ],
+  "tags": [
+    
+  ],
+  "productPricing": [
+    {
+      "label": "Wholesale Buyer",
+      "price": 0,
+      "availability": "AVAILABLE"
+    },
+    {
+      "label": "Wholesale Dropship",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    },
+    {
+      "label": "Wholesale Tier 4",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    },
+    {
+      "label": "Retail",
+      "price": 0,
+      "availability": "AVAILABLE"
+    },
+    {
+      "label": "EDI",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    }
+  ],
+  "url": "new-product",
+  "linkProduct": [
+    
+  ],
+  "productTabs": [
+    {
+      "title": "Description",
+      "body": "Simple product with variants with variant pricing",
+      "id": "newTab0"
+    }
+  ],
+  "tagLine": "API",
+  "publishedOnce": true,
+  "addingATTR": {
+    "size": false
+  },
+  "vanityUrl": "",
+  "subscriptionSettings": [
+    
+  ],
+  "categoryIds": [
+    
+  ]
+}

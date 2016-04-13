@@ -1,0 +1,156 @@
+{
+  "publishState": "PUBLISHED",
+  "site": "kittydemo",
+  "type": "SIMPLE",
+  "subscribable": false,
+  "name": "Basic Simple",
+  "description": " ",
+  "msrpInCents": 1000,
+  "cost": 0,
+  "subscriptionPrice": 0,
+  "useVariantPricing": false,
+  "displayMedia": [
+    {
+      "createdAt": null,
+      "updatedAt": null,
+      "id": null,
+      "importSource": null,
+      "importRef": null,
+      "type": "IMAGE",
+      "ref": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430285056_-1835281172627298962.300w.jpg",
+      "ordinal": 1,
+      "primary": true,
+      "meta": [
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "medium",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430285056_-1835281172627298962.500w.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of medium sized image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        },
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "large",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430285056_-1835281172627298962.1200w.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of large sized image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        },
+        {
+          "createdAt": null,
+          "updatedAt": null,
+          "id": null,
+          "importSource": null,
+          "importRef": null,
+          "key": "original",
+          "value": "//dpdow80d9z7r4.cloudfront.net/images/sites/kittydemo/1460430285056_-1835281172627298962.jpg",
+          "displayValue": null,
+          "keyType": "IMAGE_SIZE",
+          "keyDescription": "location of original image",
+          "site": null,
+          "priority": null,
+          "isDefaultable": null
+        }
+      ],
+      "dimension": {
+        "width": 1200,
+        "height": 600
+      }
+    }
+  ],
+  "composition": [
+    
+  ],
+  "frequencies": [
+    
+  ],
+  "variants": [
+    {
+      "name": "Basic Simple",
+      "cost": 0,
+      "defaultPriceInCents": 0,
+      "productPricing": [
+        
+      ],
+      "productStats": {
+        "quantityAvailable": 0,
+        "quantityWithheld": 0
+      },
+      "displayMedia": [
+        
+      ],
+      "variantAttrs": [
+        
+      ],
+      "tags": [
+        
+      ],
+      "taxCode": ""
+    }
+  ],
+  "tags": [
+    
+  ],
+  "productPricing": [
+    {
+      "label": "Wholesale Buyer",
+      "price": 900,
+      "availability": "AVAILABLE"
+    },
+    {
+      "label": "Wholesale Dropship",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    },
+    {
+      "label": "Wholesale Tier 4",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    },
+    {
+      "label": "Retail",
+      "price": 900,
+      "availability": "AVAILABLE"
+    },
+    {
+      "label": "EDI",
+      "price": 0,
+      "availability": "NOT_AVAILABLE"
+    }
+  ],
+  "url": "new-product",
+  "linkProduct": [
+    
+  ],
+  "productTabs": [
+    {
+      "title": "Description",
+      "body": "Basic simple product",
+      "id": "newTab0"
+    }
+  ],
+  "publishedOnce": true,
+  "tagLine": "API",
+  "vanityUrl": "",
+  "subscriptionSettings": [
+    
+  ],
+  "categoryIds": [
+    
+  ]
+}
